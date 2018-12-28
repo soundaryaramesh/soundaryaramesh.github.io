@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
-Helloo
 <img src="/images/sound.png" style="float: right" width="300" height="300"/>
   I'm Soundarya Ramesh, a first year PhD student in Computer Science at the National University of Singapore. I graduated from the National Institute of Technology Karnataka, Surathkal with a Bachelors in Information Technology in May'18. My research interest revolves around IoT security.
 
