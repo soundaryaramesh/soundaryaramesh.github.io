@@ -1,0 +1,2 @@
+Jekyll - static site generator (not dynamic) - hence is faster and less interactive.
+Markdown - it is a text to HTML conversion tool. It is easy to read and easy to write. It is technically a software tool written in Perl which does text to HTML conversion.

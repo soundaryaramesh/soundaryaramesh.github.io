@@ -1,32 +1,38 @@
 ---
 layout: default
+title: Blogs
 ---
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Soundarya Ramesh's webpage</title>
-	</head>
-	<body>
-		<nav>
-    		<ul style="list-style: none">
-        		<li style="display: inline"><a href="/">Home</a></li>
-	        	<li style="display: inline"><a href="/about">About</a></li>
-        		<li style="display: inline"><a href="/cv">CV</a></li>
-        		<li style="display: inline"><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-				Hope this is ok
-        		<h1>Hi there, I'm Soundarya Ramesh!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:soundaryaramesh96@gmail.com">email</a></li>
-        		<li><a href="https://github.com/soundaryaramesh">github.com/soundaryaramesh</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+
+<h1 class="page-title">{{ page.title }}</h1>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
