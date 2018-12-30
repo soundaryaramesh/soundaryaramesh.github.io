@@ -11,11 +11,11 @@ In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Je
 -->
 My research projects, both ongoing and completed ones are listed below.
 
-####_Ongoing projects_:
+***Ongoing projects***:
 
 * [Fingerprinting drones from their acoustic emanations](/projects/drones.md)
 
-####_Completed projects_: 
+***Completed projects***: 
 
 * [Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints (NDSS 2019)](https://arxiv.org/abs/1807.00575)
 
