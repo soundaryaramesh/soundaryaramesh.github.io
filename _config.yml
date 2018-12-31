@@ -12,7 +12,7 @@ relative_permalinks: false
 # Setup
 title:            Soundarya Ramesh
 #tagline:          'A Jekyll theme'
-description:      'PhD student in Computer Science.'
+description:      ''
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              "https://soundaryaramesh.github.io/"
 baseurl:          "" 
@@ -20,6 +20,9 @@ baseurl:          ""
 author:
   name:           'Soundarya Ramesh'
   #url:            https://twitter.com/mdo
+
+gravatar_md5:    3b2825418e1aca9e4dae39ea61f62fc5
+
 
 paginate:         1
 #paginate_path:    "/_posts/page:num/"
