@@ -2,8 +2,13 @@
 layout: page
 title: About
 ---
-<img src="/images/sound.png" style="float: right" width="300" height="300"/>
-  I'm Soundarya Ramesh, a first year PhD student in Computer Science at the National University of Singapore. I graduated from the National Institute of Technology Karnataka, Surathkal with a Bachelors in Information Technology in May'18. My research interest revolves around IoT security.
+  I'm Soundarya Ramesh, a first year PhD student in Computer Science at the National University of Singapore under Assistant Professor [Jun Han](https://www.comp.nus.edu.sg/~junhan/). My research interests revolve around the security and privacy of Internet of Things (IoT) devices.
+
+  I graduated with a Bachelors in Information Technology from the National Institute of Technology Karnataka, Surathkal in 2018. 
+
+  Apart from computer science, I'm really passionate about learning Sanskrit and enjoy reading philosophical books.
+
+  In my blog, I write on topics that catch my fancy, mostly related to computer science. I really look forward to comments/suggestions. So if you have any, please feel free to contact me on my e-mail. 
 
 <!--Apart from research, I'm very interested in -->
 
