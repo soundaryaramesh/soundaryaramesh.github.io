@@ -1,6 +1,7 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
+mathjax:          true
 #plugins:          [jekyll-paginate]
 plugins:
  - jekyll-paginate
