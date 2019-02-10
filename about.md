@@ -6,7 +6,7 @@ title: About
 
   I graduated with a Bachelors in Information Technology from the National Institute of Technology Karnataka, Surathkal in 2018. 
 
-  Apart from computer science, I'm really passionate about learning Sanskrit and enjoy reading philosophical books.
+  Apart from computer science, I'm really enjoy reading philosophical books and those on Indian mythology. 
 
   In my blog, I write on topics that catch my fancy, mostly related to computer science. I really look forward to comments/suggestions. So if you have any, please feel free to contact me on my e-mail. 
 
