@@ -9,15 +9,17 @@ title: Projects
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 -->
-My research projects, both ongoing and completed ones are listed below.
+As you might have figured out by now, most research papers are hard to follow (read as boring). So, in this part of my webpage, I try to provide short blog articles explaining my research work (to be updated soon!). 
 
-***Ongoing projects***:
+For now, I list my research projects, with the most recent one first. 
 
-* [Fingerprinting drones from their acoustic emanations](/projects/drones.md)
 
-***Completed projects***: 
+* **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting** <br />
 
-* [Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints (NDSS 2019)](https://arxiv.org/abs/1807.00575)
+
+* **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints**
+ <a href="https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_11-3_Shiqi_paper.pdf">(Link)</a> <br />
+
 
 <!--Learn more and contribute on [GitHub](https://github.com/poole).
 ![placeholder](/images/sound.png "This is my image")

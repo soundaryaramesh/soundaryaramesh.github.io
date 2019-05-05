@@ -1,14 +1,23 @@
 ---
-layout: page
-title: About
+layout: default
+title: About me!
 ---
-  I'm Soundarya Ramesh, a first year PhD student in Computer Science at the National University of Singapore under Assistant Professor [Jun Han](https://www.comp.nus.edu.sg/~junhan/). My research interests revolve around the security and privacy of Internet of Things (IoT) devices.
+ Hi there! 
+<img src='../files/photoo.jpg' style='float:right;width:30%;padding-left:20px'/>
 
-  I graduated with a Bachelors in Information Technology from the National Institute of Technology Karnataka, Surathkal in 2018. 
+I'm Soundarya Ramesh, a first year Ph.D. student in Computer Science at the [National University of Singapore](http://www.nus.edu.sg), working with Asst Prof. [Jun Han](https://www.comp.nus.edu.sg/~junhan/). My research interests revolve around the security and privacy of Internet of Things (IoT) devices.
 
-  Apart from computer science, I'm really enjoy reading philosophical books and those on Indian mythology. 
 
-  In my blog, I write on topics that catch my fancy, mostly related to computer science. I really look forward to comments/suggestions. So if you have any, please feel free to contact me on my e-mail. 
+  I graduated with a Bachelors' in Information Technology from the [National Institute of Technology Karnataka, Surathkal](https://www.nitk.ac.in) in 2018. 
+
+  Apart from computer science, I really enjoy discussing different philosophical viewpoints and reading non-fiction. 
+
+  In my blog, I write on topics that catch my fancy, mostly related to computer science. Feel free to share your thoughts on my posts and I'm open to suggestions.
+
+
+**Contact**
+* E-mail : sramesh AT comp DOT nus DOT edu DOT sg
+* PGP Key : [My Public Key](../pub-key.md)
 
 <!--Apart from research, I'm very interested in -->
 
@@ -33,4 +42,3 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 -->
-Thanks for reading!
