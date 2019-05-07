@@ -14,11 +14,11 @@ As you might have figured out by now, most research papers are hard to follow (r
 For now, I list my research projects, with the most recent one first. 
 
 
-* **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting** <br />
+* <u>Soundarya Ramesh</u>, Thomas Pathier, Jun Han. **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting**.  <i>To appear in the Proceedings of 5<sup>th</sup> ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet '19)</i>
 
 
-* **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints**
- <a href="https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_11-3_Shiqi_paper.pdf">(Link)</a> <br />
+* Shiqi Shen, Shweta Shinde, <u>Soundarya Ramesh</u>, Prateek Saxena, Abhik Roychoudhury. **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints** <i>In the Proceedings of the 26<sup>th</sup> Annual Network and Distributed System Security Symposium (NDSS '19) </i>
+<!-- <a href="https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_11-3_Shiqi_paper.pdf">(Link)</a> <br /> -->
 
 
 <!--Learn more and contribute on [GitHub](https://github.com/poole).
