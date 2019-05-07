@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About me!
+title: Home
 ---
  Hi there! 
 <img src='../files/photoo.jpg' style='float:right;width:30%;padding-left:20px'/>
