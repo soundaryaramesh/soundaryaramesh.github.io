@@ -17,7 +17,7 @@ I'm Soundarya Ramesh, a first year Ph.D. student in Computer Science at the [Nat
 
 **Contact**
 * E-mail : sramesh AT comp DOT nus DOT edu DOT sg
-* PGP Key : [My Public Key](../pub-key.md)
+<!--* PGP Key : [My Public Key](../pub-key.md) -->
 
 <!--Apart from research, I'm very interested in -->
 
