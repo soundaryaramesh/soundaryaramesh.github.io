@@ -26,6 +26,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 		<i class="fa fa-file-pdf-o"></i></a>
 	<span style="font-size:80%">Paper</span>
 	</div>
+<span>&#42;</span><i>Won best poster runner-up award at MobiSys'19</i><span>&#42;</span>
 <br>
 * Shiqi Shen, Shweta Shinde, <u>Soundarya Ramesh</u>, Prateek Saxena, Abhik Roychoudhury. **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints**. 
 <br><i>In the Proceedings of the 26<sup>th</sup> Annual Network and Distributed System Security Symposium (NDSS 2019) </i>
