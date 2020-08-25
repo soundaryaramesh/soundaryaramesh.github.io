@@ -17,7 +17,8 @@ Below, I list my research projects and associated blog posts, with the most rece
    		<i class="fa fa-youtube-play"></i></a>
 	<span style="font-size:80%">Video</span>
 	</div>
-<i>*Our work got featured in <a href="https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext">ACM News</a>, <a href="https://www.schneier.com/blog/archives/2020/08/copying_a_key_b.html">Schneier's Blog<a>, <a href="https://news.ycombinator.com/item?id=24172385">Hacker News</a>, <a href="https://yro.slashdot.org/story/20/08/18/2144252/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks">Slashdot</a>,  <a href="https://mashable.com/article/spikey-house-keys-listening-smartphone/">Mashable</a> and many more.*
+<i>*Our work got featured in <a href="https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext">ACM News</a>,
+<a href="https://www.forbes.com/sites/daveywinder/2020/08/22/how-hackers-use-sound-to-unlock-the-secrets-of-your-front-door-key-spikey-singapore-university-research/#135f0f905f9f">Forbes</a>, <a href="https://www.schneier.com/blog/archives/2020/08/copying_a_key_b.html">Schneier's Blog<a>, <a href="https://news.ycombinator.com/item?id=24172385">Hacker News</a>, <a href="https://yro.slashdot.org/story/20/08/18/2144252/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks">Slashdot</a>,  <a href="https://mashable.com/article/spikey-house-keys-listening-smartphone/">Mashable</a> and many more.*
 <br>
 * <u>Soundarya Ramesh</u>, Thomas Pathier, Jun Han. **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting**.
 <br><i>In the Proceedings of 5<sup>th</sup> ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet 2019)</i>
