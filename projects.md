@@ -16,7 +16,7 @@ Below, I list my research projects and associated blog posts, with the most rece
    		<i class="fa fa-youtube-play"></i></a>
 	<span style="font-size:80%">Video</span>
 	</div>
-
+<br>
 * <u>Soundarya Ramesh</u>, Harini Ramprasad, Jun Han. **Listen to Your Key: Towards Acoustics-based Physical Key Inference**.
 <br><i style="font-size:100%">In the Proceedings of 21<sup>st</sup> International Workshop on Mobile Computing Systems and Applications (HotMobile 2020)</i>
 	<div>
