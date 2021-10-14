@@ -5,8 +5,7 @@ title: Projects
 <!--As you might have figured out by now, most research papers are hard to follow (read: boring). So, in this part of my webpage, I try to provide short blog articles explaining my research work without too much technical detail. The goal is bring out the main ideas in the paper and share some thoughts beyond those conveyed in the paper (to be updated soon!).
 
 Below, I list my research projects and associated blog posts, with the most recent one first. -->
-* <u>Soundarya Ramesh</u>, Rui Xiao, Anindya Maiti, Jong Taek Lee, Harini Ramprasad, Ananda Kumar, Murtuza Jadliwala and Jun Han. **Acoustics to the Rescue: Physical Key Inference Attack Revisited**.
-<br><i style="font-size:100%">In the 30<sup>th</sup> USENIX Security Symposium (USENIX Security 2021)</i>
+* <u>Soundarya Ramesh</u>, Rui Xiao, Anindya Maiti, Jong Taek Lee, Harini Ramprasad, Ananda Kumar, Murtuza Jadliwala and Jun Han. **Acoustics to the Rescue: Physical Key Inference Attack Revisited**. <i>USENIX Security 2021</i>
 	<div>
     <a href="{{ site.baseurl }}/papers/sec21fall_ramesh.pdf">
 		<i class="fa fa-file-pdf-o"></i></a>
