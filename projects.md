@@ -5,7 +5,7 @@ title: Projects
 <!--As you might have figured out by now, most research papers are hard to follow (read: boring). So, in this part of my webpage, I try to provide short blog articles explaining my research work without too much technical detail. The goal is bring out the main ideas in the paper and share some thoughts beyond those conveyed in the paper (to be updated soon!).
 
 Below, I list my research projects and associated blog posts, with the most recent one first. -->
-* <u>Soundarya Ramesh</u>, Rui Xiao, Anindya Maiti, Jong Taek Lee, Harini Ramprasad, Ananda Kumar, Murtuza Jadliwala, Jun Han. **Acoustics to the Rescue: Physical Key Inference Attack Revisited**.
+* <u>Soundarya Ramesh</u>, Rui Xiao, Anindya Maiti, Jong Taek Lee, Harini Ramprasad, Ananda Kumar, Murtuza Jadliwala and Jun Han. **Acoustics to the Rescue: Physical Key Inference Attack Revisited**.
 <br><i style="font-size:100%">In the 30<sup>th</sup> USENIX Security Symposium (USENIX Security 2021)</i>
 	<div>
     <a href="https://www.usenix.org/system/files/sec21fall-ramesh.pdf">
@@ -17,7 +17,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 	<span style="font-size:80%">Video</span>
 	</div>
 <br>
-* <u>Soundarya Ramesh</u>, Harini Ramprasad, Jun Han. **Listen to Your Key: Towards Acoustics-based Physical Key Inference**.
+* <u>Soundarya Ramesh</u>, Harini Ramprasad and Jun Han. **Listen to Your Key: Towards Acoustics-based Physical Key Inference**.
 <br><i style="font-size:100%">In the Proceedings of 21<sup>st</sup> International Workshop on Mobile Computing Systems and Applications (HotMobile 2020)</i>
 	<div>
     <a href="{{ site.baseurl }}/papers/spikey_hotmobile.pdf">
@@ -31,7 +31,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 <i>*Our work got featured in <a href="https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext">ACM News</a>,
 <a href="https://www.forbes.com/sites/daveywinder/2020/08/22/how-hackers-use-sound-to-unlock-the-secrets-of-your-front-door-key-spikey-singapore-university-research/#135f0f905f9f">Forbes</a>, <a href="https://www.schneier.com/blog/archives/2020/08/copying_a_key_b.html">Schneier's Blog<a>, <a href="https://news.ycombinator.com/item?id=24172385">Hacker News</a>, <a href="https://yro.slashdot.org/story/20/08/18/2144252/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks">Slashdot</a>,  <a href="https://mashable.com/article/spikey-house-keys-listening-smartphone/">Mashable</a> and many more.*
 <br>
-* <u>Soundarya Ramesh</u>, Thomas Pathier, Jun Han. **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting**.
+* <u>Soundarya Ramesh</u>, Thomas Pathier and Jun Han. **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting**.
 <br><i>In the Proceedings of 5<sup>th</sup> ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet 2019)</i>
 	<div>
     <a href="{{ site.baseurl }}/papers/sounduav_dronet.pdf">
@@ -40,7 +40,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 	</div>
 <span>&#42;</span><i>Won best poster runner-up award at MobiSys'19</i><span>&#42;</span>
 <br>
-* Shiqi Shen, Shweta Shinde, <u>Soundarya Ramesh</u>, Prateek Saxena, Abhik Roychoudhury. **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints**. 
+* Shiqi Shen, Shweta Shinde, <u>Soundarya Ramesh</u>, Prateek Saxena and Abhik Roychoudhury. **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints**. 
 <br><i>In the Proceedings of the 26<sup>th</sup> Annual Network and Distributed System Security Symposium (NDSS 2019) </i>
 	<div>
     <a href="{{ site.baseurl }}/papers/neuex_ndss.pdf">
