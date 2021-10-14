@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
  Hi there! 
-<img src='../files/photo.jpg' style='float:right;width:30%;padding-left:20px'/>
+<img src='../files/photo.png' style='float:right;width:40%;padding-left:15px'/>
 
 I'm Soundarya Ramesh, a fourth year Ph.D. student in Computer Science at the [National University of Singapore](http://www.nus.edu.sg), working with [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). My research interests revolve around the security and privacy of cyber-physical systems.
 
@@ -16,7 +16,7 @@ I'm Soundarya Ramesh, a fourth year Ph.D. student in Computer Science at the [Na
 
 
 **Contact**
-* E-mail : sramesh AT comp DOT nus DOT edu DOT sg
+* E-mail : sramesh@comp.nus.edu.sg
 <!--* PGP Key : [My Public Key](../pub-key.md) -->
 
 <!--Apart from research, I'm very interested in -->
