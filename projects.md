@@ -11,6 +11,10 @@ Below, I list my research projects and associated blog posts, with the most rece
     <a href="{{ site.baseurl }}/papers/ticktock_ccs_extended_version.pdf">
 		<i class="fa fa-file-pdf-o"></i></a>
 	<span style="font-size:80%">Paper</span>
+	
+    <a href="https://www.youtube.com/watch?v=5wygPnX_PaQ">
+   		<i class="fa fa-youtube-play"></i></a>
+	<span style="font-size:80%">Video</span>
 	</div> 
 	<i>  </i>
 
