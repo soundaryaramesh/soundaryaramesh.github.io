@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
  Hey there! 
-<img src='../files/photo.png' style='float:right;width:40%;padding-left:15px'/>
+<img src='../files/photo.jpg' style='float:right;width:40%;padding-left:15px'/>
 
 I'm Soundarya Ramesh, a fifth year Ph.D. student in Computer Science at the [National University of Singapore](http://www.nus.edu.sg), working with [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). My research interests revolve around novel applications of acoustic sensing, as well as sensor security.
 
