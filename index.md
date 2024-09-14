@@ -3,20 +3,16 @@ layout: default
 title: Home
 ---
  Hey there! 
-<img src='../files/photo.jpg' style='float:right;width:40%;padding-left:15px'/>
+<!-- <img src='../files/photo.jpg' style='float:top;width:80%;padding-left:15px'/> -->
 
-I'm Soundarya Ramesh, a final year Ph.D. candidate in Computer Science at the [National University of Singapore](http://www.nus.edu.sg), working with [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). My research interests revolve around novel applications of acoustic sensing, as well as sensor security.
-
-
-  I graduated with a Bachelors' in Information Technology from the [National Institute of Technology Karnataka, Surathkal](https://www.nitk.ac.in) in 2018. 
+I'm Soundarya Ramesh, a final year Ph.D. candidate in Computer Science at the [National University of Singapore](http://www.nus.edu.sg), working with [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). I'm part of the [Cyber-Physical Systems and Security (CyPhy)](http://cyphy.kaist.ac.kr) as well as the [Communication and Internet Research Lab (CIRL)](https://www.cir.nus.edu.sg) research groups. 
+My research interests are in sensor security, as well as in enabling novel applications through sensing in the presence of emerging devices (AR/VR, wearables). Prior to grad school, I obtained my Bachelors' in Information Technology from the [NITK, Surathkal](https://www.nitk.ac.in). 
+<!-- revolve around novel applications of acoustic sensing, as well as sensor security. -->
 
 <!--  Apart from computer science, I really enjoy discussing different philosophical viewpoints and reading non-fiction. 
+In my blog, I write on topics that catch my fancy, mostly related to computer science. Feel free to share your thoughts on my posts and I'm open to suggestions. -->
 
-  In my blog, I write on topics that catch my fancy, mostly related to computer science. Feel free to share your thoughts on my posts and I'm open to suggestions. -->
-
-
-**Contact**
-* E-mail : sramesh@comp.nus.edu.sg
+Contact: [sramesh@comp.nus.edu.sg](mailto:sramesh@comp.nus.edu.sg)
 <!--* PGP Key : [My Public Key](../pub-key.md) -->
 
 <!--Apart from research, I'm very interested in -->

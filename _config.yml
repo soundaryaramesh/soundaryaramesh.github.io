@@ -13,7 +13,7 @@ relative_permalinks: false
 # Setup
 title:            Soundarya Ramesh
 #tagline:          'A Jekyll theme'
-description:      Ph.D Student, National University of Singapore
+description:      Ph.D Candidate, NUS
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              "https://soundaryaramesh.github.io/"
 baseurl:          "" 
