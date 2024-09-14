@@ -9,10 +9,5 @@ I'm Soundarya Ramesh, a final year Ph.D. candidate in Computer Science at the [N
 My research interests are in sensor security, as well as in enabling novel applications through sensing in the presence of emerging devices (AR/VR, wearables). Prior to grad school, I obtained my Bachelors' in Information Technology from the [NITK, Surathkal](https://www.nitk.ac.in). 
 <!-- revolve around novel applications of acoustic sensing, as well as sensor security. -->
 
-<!--  Apart from computer science, I really enjoy discussing different philosophical viewpoints and reading non-fiction. 
-In my blog, I write on topics that catch my fancy, mostly related to computer science. Feel free to share your thoughts on my posts and I'm open to suggestions. -->
-
 Contact: [sramesh@comp.nus.edu.sg](mailto:sramesh@comp.nus.edu.sg)
-<!--* PGP Key : [My Public Key](../pub-key.md) -->
 
-<!--Apart from research, I'm very interested in -->
