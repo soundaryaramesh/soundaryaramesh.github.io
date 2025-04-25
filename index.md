@@ -20,9 +20,12 @@ title: Home
 
 Hey there! 
 <!-- <img src='../files/photo.jpg' style='float:top;width:80%;padding-left:15px'/> -->
-
-I'm Soundarya Ramesh, a final year Ph.D. candidate in Computer Science at the [National University of Singapore](http://www.nus.edu.sg), working with [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). I'm part of the [Cyber-Physical Systems and Security (CyPhy)](http://cyphy.kaist.ac.kr) as well as the [Communication and Internet Research Lab (CIRL)](https://www.cir.nus.edu.sg) research groups. 
+I'm Soundarya Ramesh, currently a postdoctoral researcher at the [Augmented Human Lab](https://ahlab.org), in the National University of Singapore (NUS), working with [Prof. Suranga Nanayakkara](https://suranga.info). Previously, I completed my Ph.D. in Computer Science at NUS, where I was advised by [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). I was part of the [Cyber-Physical Systems and Security (CyPhy)](http://cyphy.kaist.ac.kr) as well as the [Communication and Internet Research Lab (CIRL)](https://www.cir.nus.edu.sg) research groups. 
 My research interests are in sensor security, as well as in enabling novel applications through sensing in the presence of emerging devices (AR/VR, wearables). Prior to graduate school, I obtained my Bachelors' in Information Technology from [NITK, Surathkal](https://www.nitk.ac.in). 
+
+
+<!-- I'm Soundarya Ramesh, a final year Ph.D. candidate in Computer Science at the [National University of Singapore](http://www.nus.edu.sg), working with [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). I'm part of the [Cyber-Physical Systems and Security (CyPhy)](http://cyphy.kaist.ac.kr) as well as the [Communication and Internet Research Lab (CIRL)](https://www.cir.nus.edu.sg) research groups. 
+My research interests are in sensor security, as well as in enabling novel applications through sensing in the presence of emerging devices (AR/VR, wearables). Prior to graduate school, I obtained my Bachelors' in Information Technology from [NITK, Surathkal](https://www.nitk.ac.in).  -->
 <!-- revolve around novel applications of acoustic sensing, as well as sensor security. -->
 
 #### I'm currently looking for full-time industry research positions and postdoc opportunities! Please reach out if there are any openings in the areas of sensor security, wearable sensing and health sensing.
