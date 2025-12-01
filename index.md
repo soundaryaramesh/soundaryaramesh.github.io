@@ -20,7 +20,7 @@ title: Home
 
 Hey there! 
 <!-- <img src='../files/photo.jpg' style='float:top;width:80%;padding-left:15px'/> -->
-I'm Soundarya Ramesh, currently a postdoctoral researcher at the [Augmented Human Lab](https://ahlab.org), in the National University of Singapore (NUS), working on applying machine learning to improve human safety and well-being. I have expertise working with time-series data -- audio signals as well as physiological sensor data, and more recently, I'm exploring multimodal data (i.e., audio+text, physiological data+text). 
+I'm Soundarya Ramesh, currently a postdoctoral researcher at the [Augmented Human Lab](https://ahlab.org), in the National University of Singapore (NUS), working on applying machine learning to improve human safety and well-being. I have expertise working with time-series data -- audio signals as well as physiological sensor data, and more recently, I'm exploring multimodal data in audio context for applications such as language-queried audio enhnacement. 
 
 Prior to my postdoc, I completed my Ph.D. in Computer Science at NUS, on the topic of audio security and privacy, while being supervised by [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). 
 
@@ -52,7 +52,7 @@ My research interests are in sensor security, as well as in enabling novel appli
   <i class="fa-brands fa-square-x-twitter fa-2x"></i>
 </a>
 
-Contact: [sramesh@comp.nus.edu.sg](mailto:sramesh@comp.nus.edu.sg)
+Contact: [sramesh@nus.edu.sg](mailto:sramesh@nus.edu.sg)
 
 <H3>Recent News</H3>
 Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
