@@ -6,7 +6,7 @@ title: Publications
 
 Below, I list my research projects and associated blog posts, with the most recent one first. -->
 
-* <u> Soundarya Ramesh </u>\*, Chitralekha Gupta\*, Praveen Sasikumar, Kian Peen Yeo, Suranga Nanayakkara. <br>**DroneAudioset: An Audio Dataset for Drone-based Search and Rescue.** <i>(NeurIPS Datasets and Benchmarks Track 2025)</I>
+* <u> Soundarya Ramesh</u>\*, Chitralekha Gupta\*, Praveen Sasikumar, Kian Peen Yeo, Suranga Nanayakkara. <br>**DroneAudioset: An Audio Dataset for Drone-based Search and Rescue.** <i>(NeurIPS Datasets and Benchmarks Track 2025)</I>
 	<div>
     <a href="https://arxiv.org/pdf/2510.15383">
 		<i class="fa-solid fa-file-pdf"></i></a>
