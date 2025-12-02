@@ -54,7 +54,7 @@ My research interests are in sensor security, as well as in enabling novel appli
 Contact: [sramesh@nus.edu.sg](mailto:sramesh@nus.edu.sg)
 
 <H3>Recent News</H3>
-Dec 2025: Presenting two posters at Neurips 2025! <br>
+Dec 2025: Presenting two posters at NeurIPS 2025! <br>
 May 2025: Gave an invited talk at Asahi Quality and Innovations in Yokohama <br>
 Jan 2025: Defended my PhD Thesis! <br>
 Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
