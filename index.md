@@ -55,7 +55,7 @@ Contact: [sramesh@nus.edu.sg](mailto:sramesh@nus.edu.sg)
 
 <H3>Recent News</H3>
 Dec 2025: Presenting two posters at Neurips 2025! <br>
-May 2025: Gave an invited talk at Asahi Quality and Innovations in Yokohama, JP <br>
+May 2025: Gave an invited talk at Asahi Quality and Innovations in Yokohama <br>
 Jan 2025: Defended my PhD Thesis! <br>
 Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
 May 2024: Won the Best Presentation Award in the MobiSys [Rising Stars Forum](https://www.sigmobile.org/mobisys/2024/rising.html), Tokyo <br>
