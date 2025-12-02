@@ -20,10 +20,9 @@ title: Home
 
 Hey there! 
 <!-- <img src='../files/photo.jpg' style='float:top;width:80%;padding-left:15px'/> -->
-I'm Soundarya Ramesh, currently a postdoctoral researcher at the [Augmented Human Lab](https://ahlab.org), in the National University of Singapore (NUS), working on applying machine learning to improve human safety and well-being. I have expertise working with time-series data -- audio signals as well as physiological sensor data, and more recently, I'm exploring multimodal data in audio context for applications such as language-queried audio enhnacement. 
+I'm Soundarya Ramesh, currently a postdoctoral researcher at the [Augmented Human Lab](https://ahlab.org), in the National University of Singapore (NUS). I work on machine learning for sensing systems that enhance human safety and well-being, focusing on audio and physiological time-series data. Recently, I’ve also been exploring multimodal approaches for audio-centered applications such as language-queried enhancement. Prior to my postdoc, I completed my Ph.D. in Computer Science at NUS, on the topic of audio security and privacy, while being supervised by [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). 
 
-Prior to my postdoc, I completed my Ph.D. in Computer Science at NUS, on the topic of audio security and privacy, while being supervised by [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). 
-
+I’ve been fortunate to receive several awards along the way, including the Google PhD Fellowship, the MobiSys Rising Star Award, a Best Poster Runner-Up Award, as well as a teaching excellence recognition at NUS.
 
 <!-- My research interests are in sensor security, as well as in enabling novel applications through sensing in the presence of emerging devices (AR/VR, wearables). Prior to graduate school, I obtained my Bachelors' in Information Technology from [NITK, Surathkal](https://www.nitk.ac.in).  -->
 
@@ -32,7 +31,7 @@ Prior to my postdoc, I completed my Ph.D. in Computer Science at NUS, on the top
 My research interests are in sensor security, as well as in enabling novel applications through sensing in the presence of emerging devices (AR/VR, wearables). Prior to graduate school, I obtained my Bachelors' in Information Technology from [NITK, Surathkal](https://www.nitk.ac.in).  -->
 <!-- revolve around novel applications of acoustic sensing, as well as sensor security. -->
 
-#### I'm currently actively looking for full-time industry positions (ML/AI Scientist, ML Engineer roles) in the US as well as Singapore. Please feel free to reach out!
+#### I'm currently actively looking for full-time industry positions (ML/AI Scientist, ML Engineer roles) in the Bay Area as well as Singapore. Please feel free to reach out!
 
 ### [Curriculum Vitae](https://soundaryaramesh.github.io/cv.pdf)
 
@@ -55,15 +54,19 @@ My research interests are in sensor security, as well as in enabling novel appli
 Contact: [sramesh@nus.edu.sg](mailto:sramesh@nus.edu.sg)
 
 <H3>Recent News</H3>
+Dec 2025: Presenting two posters at Neurips 2025 <br>
+May 2025: Gave an invited talk at Asahi Quality and Innovations in Yokohama, JP <br>
+Jan 2025: Defended my PhD Thesis! <br>
 Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
 May 2024: Won the Best Presentation Award in the [Rising Stars Forum](https://www.sigmobile.org/mobisys/2024/rising.html) at MobiSys 2024, Tokyo <br>
-May 2024: Gave a talk at [Romit Roy Choudhury's Group](https://sinrg.csl.illinois.edu) at UIUC <br>
-May 2024: Gave an invited talk at Acoustical Society of America's Meeting, Ottawa <br>
 <span class="more-text" style="display:none;">
-Sep 2023: Gave a talk to the Safesforce Cloud Security Assurance Team, Seattle <br>
+May 2024: Gave a talk in [Romit Roy Choudhury's Group](https://sinrg.csl.illinois.edu), UIUC <br>
+May 2024: Gave an invited talk at Acoustical Society of America's Meeting, Ottawa <br>
+Sep 2023: Gave an invited talk at Safesforce, Seattle <br>
+<!-- Cloud Security Assurance Team -->
 Jul 2023: Passed my Thesis Proposal! <br>
 Feb 2023: Attended HotMobile 2024, Orange Country, and won the Best Poster Award <br>
-Feb 2023: Visited Google, Irvine -- Hosted by [Xiaoran Fan](https://ox5bc.github.io) <br>
+<!-- Feb 2023: Visited Google, Irvine -- Hosted by [Xiaoran Fan](https://ox5bc.github.io) <br> -->
 Feb 2023: Gave a talk in [Mani Srivastava's group](https://samueli.ucla.edu/people/mani-srivastava/), UCLA 
 </span>
 <a href="javascript:void(0);" onclick="showMore()" id="more-link">Older ...</a>
