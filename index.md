@@ -20,7 +20,7 @@ title: Home
 
 Hey there! 
 <!-- <img src='../files/photo.jpg' style='float:top;width:80%;padding-left:15px'/> -->
-I'm Soundarya Ramesh, currently a postdoctoral researcher at the [Augmented Human Lab](https://ahlab.org), in the National University of Singapore (NUS). I work on machine learning for sensing systems that enhance human safety and well-being, focusing on audio and physiological time-series data. Recently, I’ve also been exploring multimodal approaches for audio-centered applications such as language-queried enhancement. Prior to my postdoc, I completed my Ph.D. in Computer Science at NUS, on the topic of audio security and privacy, while being supervised by [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). 
+I'm Soundarya Ramesh, currently a postdoctoral researcher at the [Augmented Human Lab](https://ahlab.org), in the National University of Singapore (NUS). I work on machine learning for sensing systems that enhance human safety and well-being, focusing on audio and physiological time-series data. Recently, I’ve also been exploring multimodal approaches for audio-centered applications such as language-queried enhancement. Prior to my postdoc, I completed my Ph.D. in Computer Science at NUS, on the topic of audio security and privacy, under the supervision of [Prof. Jun Han](https://www.comp.nus.edu.sg/~junhan/) and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/). 
 
 I’ve been fortunate to receive several awards along the way, including the Google PhD Fellowship, the MobiSys Rising Star Award, a Best Poster Runner-Up Award, as well as a teaching excellence recognition at NUS.
 
