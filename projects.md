@@ -6,7 +6,7 @@ title: Publications
 
 Below, I list my research projects and associated blog posts, with the most recent one first. -->
 
-* <u> Soundarya Ramesh</u>\*, Chitralekha Gupta\*, Praveen Sasikumar, Kian Peen Yeo, Suranga Nanayakkara. <br>**DroneAudioset: An Audio Dataset for Drone-based Search and Rescue.** <i>(NeurIPS Datasets and Benchmarks Track 2025)</I>
+* <u>Soundarya Ramesh</u>\*, Chitralekha Gupta\*, Praveen Sasikumar, Kian Peen Yeo, Suranga Nanayakkara. <br>**DroneAudioset: An Audio Dataset for Drone-based Search and Rescue.** <i>(NeurIPS Datasets and Benchmarks Track 2025)</I>
 	<div>
     <a href="https://arxiv.org/pdf/2510.15383">
 		<i class="fa-solid fa-file-pdf"></i></a>
@@ -14,7 +14,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 	</div> 
 	<!-- <i>  </i> -->
 
-* <u> Soundarya Ramesh </u>, Takahiro Masuda, Hyung Woon Lee, Yongquan Hu, Suranga Nanayakkara. <br>**Don't Sleep on Sleep Data: Influence of Sleep Physiology on Stress Detection.** <i>(NeurIPS Time Series for Health Workshop 2025)</I>
+* <u>Soundarya Ramesh</u>, Takahiro Masuda, Hyung Woon Lee, Yongquan Hu, Suranga Nanayakkara. <br>**Don't Sleep on Sleep Data: Influence of Sleep Physiology on Stress Detection.** <i>(NeurIPS Time Series for Health Workshop 2025)</I>
 
 * Kanav Sabharwal, <u>Soundarya Ramesh</u>, Jingxian Wang, Dinil Divakaran and Mun Choon Chan. <br>**Enhancing LoRa reception with generative models: Channel-aware denoising of LoraPHY signals.** <i>(ACM SenSys 2024)</I>
 	<div>
