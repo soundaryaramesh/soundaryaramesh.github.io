@@ -58,7 +58,7 @@ Dec 2025: Presenting two posters at Neurips 2025! <br>
 May 2025: Gave an invited talk at Asahi Quality and Innovations in Yokohama, JP <br>
 Jan 2025: Defended my PhD Thesis! <br>
 Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
-May 2024: Won the Best Presentation Award in the [Rising Stars Forum](https://www.sigmobile.org/mobisys/2024/rising.html) at MobiSys 2024, Tokyo <br>
+May 2024: Won the Best Presentation Award in the MobiSys [Rising Stars Forum](https://www.sigmobile.org/mobisys/2024/rising.html), Tokyo <br>
 <span class="more-text" style="display:none;">
 May 2024: Gave a talk in [Romit Roy Choudhury's Group](https://sinrg.csl.illinois.edu), UIUC <br>
 May 2024: Gave an invited talk at Acoustical Society of America's Meeting, Ottawa <br>
