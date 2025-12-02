@@ -6,13 +6,13 @@ title: Publications
 
 Below, I list my research projects and associated blog posts, with the most recent one first. -->
 
-* <u> Soundarya Ramesh\* </u>, Chitralekha Gupta\*, Praveen Sasikumar, Kian Peen Yeo, Suranga Nanayakkara. <br>**DroneAudioset: An Audio Dataset for Drone-based Search and Rescue.** <i>(NeurIPS Datasets and Benchmarks Track 2025)</I>
-<div>
+* <u> Soundarya Ramesh </u>\*, Chitralekha Gupta\*, Praveen Sasikumar, Kian Peen Yeo, Suranga Nanayakkara. <br>**DroneAudioset: An Audio Dataset for Drone-based Search and Rescue.** <i>(NeurIPS Datasets and Benchmarks Track 2025)</I>
+	<div>
     <a href="https://arxiv.org/pdf/2510.15383">
 		<i class="fa-solid fa-file-pdf"></i></a>
 	<span style="font-size:80%">Paper</span>
 	</div> 
-	<i>  </i>
+	<!-- <i>  </i> -->
 
 * <u> Soundarya Ramesh </u>, Takahiro Masuda, Hyung Woon Lee, Yongquan Hu, Suranga Nanayakkara. <br>**Don't Sleep on Sleep Data: Influence of Sleep Physiology on Stress Detection.** <i>(NeurIPS Time Series for Health Workshop 2025)</I>
 
@@ -22,7 +22,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 		<i class="fa-solid fa-file-pdf"></i></a>
 	<span style="font-size:80%">Paper</span>
 	</div> 
-	<i>  </i>
+	<!-- <i>  </i> -->
 
 * Rui Xiao, Tianyu Li, <u>Soundarya Ramesh</u>, Jun Han, and Jinsong Han. <br>**MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals** <i>(ACM MobiCom 2023)</I>
 	<div>
@@ -30,7 +30,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 		<i class="fa-solid fa-file-pdf"></i></a>
 	<span style="font-size:80%">Paper</span>
 	</div> 
-	<i>  </i>
+	<!-- <i>  </i> -->
 
 * Jonghyuk Yun\*, Gyuyeon Kim\*, <u>Soundarya Ramesh</u>, and Jun Han. <br>**RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps** <i>(ACM HotMobile 2023)</I>
 	<div>
@@ -38,7 +38,7 @@ Below, I list my research projects and associated blog posts, with the most rece
 		<i class="fa-solid fa-file-pdf"></i></a>
 	<span style="font-size:80%">Paper</span>
 	</div> 
-	<i>  </i>
+	<!-- <i>  </i> -->
 
 
 * <u>Soundarya Ramesh</u>, Ghozali Hadi, Sihun Yang, Mun Choon Chan, and Jun Han. **TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals** <i>(ACM CCS 2022)</I>
@@ -51,7 +51,7 @@ Below, I list my research projects and associated blog posts, with the most rece
    		<i class="fa-brands fa-youtube"></i></a>
 	<span style="font-size:80%">Video</span>
 	</div> 
-	<i>  </i>
+	<!-- <i>  </i> -->
 
 
 * <u>Soundarya Ramesh</u>, Rui Xiao, Anindya Maiti, Jong Taek Lee, Harini Ramprasad, Ananda Kumar, Murtuza Jadliwala and Jun Han. **Acoustics to the Rescue: Physical Key Inference Attack Revisited** <i>(USENIX Security 2021)</i>
