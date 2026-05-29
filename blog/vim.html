@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A "Vim"sical beginning · Soundarya Ramesh</title>
+  <meta name="description" content="The Vim features I enjoyed learning — the undo tree, composability, homogeneity, and multiple copy buffers.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+
+  <header class="topbar">
+    <span class="topbar-name">Soundarya Ramesh</span>
+    <button class="menu-btn" aria-label="Open menu" aria-expanded="false"><i class="fa-solid fa-bars"></i></button>
+  </header>
+  <div class="scrim"></div>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <img class="brand-photo" src="../assets/img/photo.jpg" alt="Soundarya Ramesh">
+        <div class="brand-name">Soundarya Ramesh</div>
+        <div class="brand-role">Postdoctoral Researcher</div>
+      </div>
+      <nav class="nav">
+        <a class="nav-item" href="../index.html"><i class="fa-solid fa-house"></i> Home</a>
+        <a class="nav-item" href="../publications.html"><i class="fa-solid fa-book-open"></i> Publications</a>
+        <a class="nav-item active" href="../blogs.html"><i class="fa-solid fa-pen-nib"></i> Blogs</a>
+      </nav>
+      <div class="social">
+        <a href="https://www.linkedin.com/in/soundarya-ramesh/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+        <a href="https://scholar.google.com/citations?user=VWyXi3EAAAAJ&hl=en&oi=ao" aria-label="Google Scholar"><i class="fa-brands fa-google-scholar"></i></a>
+        <a href="https://twitter.com/soundarya05" aria-label="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+        <a href="mailto:sramesh@nus.edu.sg" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="container">
+        <a class="back-link" href="../blogs.html"><i class="fa-solid fa-arrow-left"></i> All blogs</a>
+
+        <header class="post-head">
+          <span class="date">12 January 2019</span>
+          <h1>A "Vim"sical beginning</h1>
+        </header>
+
+        <article class="article">
+          <p>It's been three years since I began my journey with Vim. What started more as a personal challenge to
+            master — as it was one of those things known to have a steep learning curve — has led to Vim being my
+            editor of choice hitherto. In this post, I share some of the features that I enjoyed learning about
+            Vim, some of which make it stand out in comparison to other editors.</p>
+
+          <p>Vim, which stands for Visual IMproved, is a command-line editor, originally written by Bill Joy for
+            BSD Unix in 1976. It is highly configurable, easily integrable with compiler tools, open-source and
+            comparatively light-weight. Vim is also one of the most widely used text editors among developers even
+            today. The reason for this, apart from the reasons above, is that Vim is very efficient as it
+            eliminates the latency caused due to the usage of mouse and meta-keys.</p>
+
+          <h3>Vim Fundamentals</h3>
+          <p>Vim is a modal-editor, i.e., it operates in two modes: <em>Insert Mode</em>, where keystrokes are
+            typed into the document, and <em>Normal Mode</em>, where all keystrokes are interpreted as commands
+            that act on the contents of the file. This feature has advantages in comparison to non-modal editors,
+            which rely only on meta keys such as <code>Ctrl</code> and <code>Shift</code> for editing. The default
+            mode on opening Vim is the <em>Normal mode</em> (or command mode). To switch to Insert mode, we press
+            character <code>i</code>, following which <code>--INSERT--</code> appears at the bottom of the screen.
+            In order to switch back, we press the <code>ESC</code> key. Two additional commands that one ought to
+            know are <code>:wq</code> to <em>save and quit</em> and <code>:q!</code> to <em>quit without
+            saving</em>.</p>
+
+          <p>Now that we know the fundamentals, let's see some of Vim's cool features!</p>
+
+          <h3>Undo Tree</h3>
+          <p>Try the following exercise in your favourite editor — type a word, undo it, and type a different word
+            in its place. Now, try to recover the first word that you typed. Wondering how something so simple
+            doesn't work? This is because most editors use a stack-based undo implementation, unlike Vim that uses
+            a tree data-structure, hence capable of saving all previous states.</p>
+
+          <figure>
+            <img src="../assets/img/vim_undo_ex.png" alt="Undo-redo example">
+            <figcaption>An example to understand the undo-redo operations in editors.<br>Here, R: replace text and U: undo text.</figcaption>
+          </figure>
+
+          <p>To understand this, consider the series of changes shown in the figure above. Here, we consider the
+            phrase <em>Original Text</em>, which undergoes two replacements (i.e., erase followed by write), one
+            undo operation and two replacements, in that order.</p>
+
+          <p>The figure below shows the Vim-based tree implementation (left) and stack-based implementation of the
+            Undo operation (right). The stack-based implementation consists of undo and redo stacks, which store
+            all the states that can be reached by <em>undo</em> and <em>redo</em> operations, respectively. Also,
+            the top element of the undo stack is always the state displayed on the user's screen. Let us now see
+            how the changes shown in the above example affect the undo and redo stacks.</p>
+
+          <figure>
+            <img src="../assets/img/vim_undo.png" alt="Tree vs stack-based undo">
+            <figcaption>An example to understand the undo-redo operations in editors.<br>Left: Tree-based Undo in Vim. Right: Stack-based Undo.</figcaption>
+          </figure>
+
+          <p>Initially, only <em>Original text</em> is in the undo stack. On making two successive replacements,
+            the two modified texts, <em>Text-1</em> and <em>Text-2</em>, get pushed onto the stack, while the redo
+            stack remains empty. The next operation performed is Undo, after which the topmost element of the Undo
+            stack is popped, and pushed into the Redo stack. Till this point, both Vim-based undo tree as well as
+            the stack-based undo exhibit identical behavior. However, now when <em>Text-1</em> is replaced by
+            <em>Text-3</em>, in the stack-based approach, the undo stack pushes <em>Text-3</em> into the stack,
+            while the redo-stack pops all its elements <em>as there is nothing to "redo" beyond this point</em>.
+            This causes the loss of the element <em>Text-2</em> as it is neither part of the undo nor the redo
+            stack. Vim solves this problem by forking a new branch at <em>Text-1</em>, when replaced by
+            <em>Text-3</em> at Step 4. This creates two branches, consisting of edges 1,2 and 1,4,5.</p>
+
+          <p>In order to view the two branches in Vim, type the command <code>:undolist</code> in <em>Normal</em>
+            mode, which displays all the available branches for the current file. For the above example, the
+            output of undolist is as shown below.</p>
+
+          <figure>
+            <img src="../assets/img/undo-output.png" alt="Output of the :undolist command" width="350">
+            <figcaption>Output of the :undolist command.</figcaption>
+          </figure>
+
+          <p>Here, the most important attributes are <em>number</em>, which is the identifier for a branch, and
+            <em>changes</em>, which indicates the number of nodes in a given branch. Now, in order to move to the
+            branch containing <em>Text-2</em>, type the command <code>:undo 3</code>, where 3 indicates the branch
+            ID.</p>
+
+          <h3>Composability and Homogeneity</h3>
+          <p>There are plenty of commands in Vim. However, just knowing a handful of them can help realise complex
+            functionalities because they <em>compose</em> well with each other. For example, in <em>Normal</em>
+            mode, <code>/word</code> moves to the next occurrence of the <em>word</em>. When this is combined with
+            commands such as <code>d</code> or <code>y</code>, that are used for deleting and copying text, i.e.,
+            on typing <code>d/word</code> or <code>y/word</code>, Vim deletes or copies content till the
+            occurrence of the next word. This property where multiple commands work well in unison is what I term
+            <em>composability</em> and is common in Vim. As a programmer, one can immediately think of instances
+            where this can be applied. For example, we can use this to delete all contents of a function block
+            till the closing braces, copy the contents of an array from the beginning till the current cursor
+            position, and so on.</p>
+
+          <p>Another powerful feature of Vim is the ability to easily repeat an action multiple times. For example,
+            we know that <code>i</code> is the command to insert text. Now, what if we want to add a certain block
+            of text 10 times? We simply change the command to <code>10i</code>, which produces an output that is
+            the inserted text repeated 10 times. I call this property <em>homogeneity</em>, inspired by the
+            homogeneous functions in mathematics, wherein if the input increases by a factor of <em>k</em>, so
+            does the output. The homogeneity property can be very useful if you want to paste a certain block of
+            code several times, to delete the next <em>n</em> lines, and so on.</p>
+
+          <h3>Multiple Copy Buffers</h3>
+          <p>Vim supports up to 26 registers (one corresponding to each alphabet) which act as buffers that can
+            store copied data, and multiple of these can be populated at the same time. For instance, in order to
+            copy the current line into the named register <em>a</em>, one types the command <code>"ayy</code>,
+            where <code>"a</code> specifies the register to be used and <code>yy</code> is the command to copy the
+            current line. One can also append data to this register by using the capital letter <em>A</em>, instead
+            of <em>a</em>. Similarly, to paste the contents, we type <code>"ap</code> in <em>Normal mode</em>. In
+            contrast to this, most editors can store only one item in the copy buffer (or clipboard). This feature
+            in Vim can be useful when multiple parts of a code need to be copied and written into other files.</p>
+
+          <h3>Commonly used Commands</h3>
+          <p>Here I list some of the Vim commands that I use often. If you're a Vim user too, share yours in the
+            comments section below!</p>
+
+          <table>
+            <thead>
+              <tr><th>Command</th><th>What it does</th></tr>
+            </thead>
+            <tbody>
+              <tr><td><code>.</code></td><td>Repeat the previous command</td></tr>
+              <tr><td><code>*</code></td><td>Search for the word under the cursor</td></tr>
+              <tr><td><code>:n1</code></td><td>Go to line number n1</td></tr>
+              <tr><td><code>:n1,n2&gt;</code></td><td>Right-shift all lines from n1 to n2 by a tab space</td></tr>
+              <tr><td><code>daw</code></td><td>Delete a word under the cursor</td></tr>
+              <tr><td><code>di"</code> (or <code>di{</code>)</td><td>Delete all contents within a pair of quotes (braces)</td></tr>
+              <tr><td><code>:.,.+4s/find/repl/g</code></td><td>Substitute all strings <em>find</em> with <em>repl</em> from the current line until the fourth line below</td></tr>
+            </tbody>
+          </table>
+        </article>
+      </div>
+
+      <footer class="footer">
+        © <span id="year">2026</span> Soundarya Ramesh ·
+        <a href="https://soundaryaramesh.github.io/">soundaryaramesh.github.io</a>
+      </footer>
+    </main>
+  </div>
+
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>

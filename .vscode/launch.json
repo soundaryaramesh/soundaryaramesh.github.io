@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Serve Modern Site + open browser",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:4040",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "Serve Modern Site"
+    }
+  ]
+}
